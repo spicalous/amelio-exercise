@@ -1,0 +1,2 @@
+# Make acceptance tests fast
+get-sum-timeout-seconds: 0
